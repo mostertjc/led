@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="k%p@)T7lFjmn(3jgv,up" x="0" y="0"></block><block type="device_forever" id="~WMHk-r*(Tsd;paKtwj[" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="k%p@)T7lFjmn(3jgv,up" x="0" y="0"></block><block type="device_forever" id="~WMHk-r*(Tsd;paKtwj[" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="O6EfNTt,{maM(Cu[/8s~"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="R!zh,sx|a6~lmZa6^N;+"><field name="i">IconNames.Yes</field><next><block type="device_pause" id="p:atx)D9aY.(uR[x=SSr"><value name="pause"><shadow type="timePicker" id="2h%QI/dk($vlNJalk+F-"><field name="ms">2000</field></shadow></value></block></next></block></next></block></statement></block></xml>
